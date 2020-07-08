@@ -5,3 +5,4 @@ test.json
 config/federator.key
 federator.log
 test/lib/*.txt
+coverage
